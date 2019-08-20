@@ -4,4 +4,17 @@
 }
 .body{
     orientation: center;
+    background-color:black;
+}
+.bg-light {
+    background-color: #539de7!important;
+    
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+    
 }
